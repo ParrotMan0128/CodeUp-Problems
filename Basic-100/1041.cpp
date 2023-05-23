@@ -2,11 +2,11 @@
 
 int main() {
 
-	int n;
+	char c;
 
-	scanf("%d", &n);
+	scanf("%c", &c);
 
-	printf("%c", n);
+	printf("%c", (c + 1));
 
 	return 0;
 
