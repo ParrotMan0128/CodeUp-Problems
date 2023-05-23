@@ -2,11 +2,11 @@
 
 int main() {
 
-	unsigned int x;
+	int n;
 
-	scanf("%u", &x);
+	scanf("%o", &n);
 
-	printf("%u", x);
+	printf("%d", n);
 
 	return 0;
 
